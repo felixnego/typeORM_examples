@@ -1,0 +1,19 @@
+{
+  "name": "typeorm_examples",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/felixnego/typeORM_examples.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/felixnego/typeORM_examples/issues"
+  },
+  "homepage": "https://github.com/felixnego/typeORM_examples#readme"
+}
